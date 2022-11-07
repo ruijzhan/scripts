@@ -1,1 +1,3 @@
 # scripts
+
+- [Installing flux](./flux/)
